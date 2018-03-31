@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-twitter-data
+This repository includes fetching data from twitter API and working on Textblob library for finding out the top 20 words/tags used in tweets and plotting a graph for finding out the subjectivity and polarity count of the data. Also it includes the working of newspaper library which helps finding the article title, article keywords and generating the Article summary and saving it to csv file
